@@ -7,7 +7,10 @@ Thus, LMS Adaptive filter can be used as Hardware Accelerator on FPGA board.
 Here, I have attached whole report of this project which includes necessary design codes as well as resultant output with conclusion. 
 
 Tools: Altera Quartus Prime, Qsys, ModelSim, MATLAB.    
-You can also use Xilinx Vivado tool for design and simulation.    
-Programming language: Verilog.    
+You can also use Xilinx Vivado tool for design and simulation.      
+
+Programming language: Verilog.  
+
 FPGA Hardware development kit: Altera DE0 Nano SoC board/Altera DE1 FPGA board.   
+
 Project Report file: LMS_HW_Acc.pdf (includes whole project)
